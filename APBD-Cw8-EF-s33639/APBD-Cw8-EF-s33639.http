@@ -1,0 +1,6 @@
+@APBD_Cw8_EF_s33639_HostAddress = http://localhost:5035
+
+GET {{APBD_Cw8_EF_s33639_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
